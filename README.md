@@ -11,4 +11,8 @@
 ## Credits:
 * No sneak peaks!
 
+## Website
+https://rawgit.com/pwages/copaceticgames/master/html/index.html
+
+
 ###  (C) Zach Greenwell, Nathan Poole, & Peter Wages - 2016
